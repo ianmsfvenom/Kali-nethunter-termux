@@ -9,6 +9,7 @@
 - [Instalação](#Instalação)
 - [Iniciar kali nethunter](#Inicialização)
 - [Contato](#Contato)
+- [Donate](#Donate)
 ---
 ## O que é
 
@@ -56,3 +57,7 @@ agora é so ser feliz com seu kali nethunter :)
 ## Contato
 
 [Whatsapp](https://api.whatsapp.com/send/?phone=%2B557187645787&text&app_absent=0)
+
+# Donate
+
+[Doações](https://www.paypal.com/donate/?hosted_button_id=QQ4MFP2AZV9TW)
