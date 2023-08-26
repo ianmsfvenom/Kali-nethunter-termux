@@ -11,7 +11,7 @@
 - [Contato](#Contato)
 - [Donate](#Donate)
 ---
-## O que é
+## O que é?
 
 O kali nethunter é um emulador do terminal kali linux para android e
 e possui diversas ferramentas e programas de segurança e invasão de computadores, pode ser instalado em diversos terminais android, mas o que mais recomendo e que vou utilizar é o termux segue a baixo o método de instalação do kali nethunter
@@ -19,10 +19,10 @@ e possui diversas ferramentas e programas de segurança e invasão de computador
 ---
 ## Requisitos mínimos
 
-Já que o kali nethunter e um emulador e tem todosos programas do kali linux o tamanho dele não é nada pequeno, o kali nethunter tem o tamanho comprimido de 1.19gb e descomprimido tem 6gb, então para instalar precisa de:
+Já que o kali nethunter é um emulador e tem todos os programas do kali linux o tamanho dele não é nada pequeno, o kali nethunter tem o tamanho comprimido de 1.19 GB e descomprimido tem 6 GB, então para instalar precisa de:
 
 - 7.19 gb livres
-- Versão do android 5.0 ou superior
+- Versão do Android 5.0 ou superior
 
 O donwload demora para baixar e demora mais ainda para descompactar então recomendo ter uma internet boa e ficar com o celular no carregador, deixe o termux aberto para não ter erro ;)
 
